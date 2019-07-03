@@ -78,7 +78,6 @@ nav {
     float: left;
 }
 
-
 .book {
     margin: 30px 10px 0px 10px;
     padding: 10px;
@@ -89,7 +88,8 @@ nav {
     max-width: 211px;
     width: 190px;
     height: 300px;
-}
+    background-color: #90def6;
+    }
 
 .book h2 {
     margin: 0px;
@@ -97,4 +97,20 @@ nav {
     font-size: 1.2em;
     text-align: center;
 
+}
+
+#foot {
+    margin: 30px 900px 30px 0px;
+    float: left;
+}
+
+#footered {
+    width: 960px;        
+    text-align: center;
+    font-size: 1.5em;
+    border-style: solid;
+    border-color: #222266;
+    background-color: #224466;
+    color: white;
+    
 }
